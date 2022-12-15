@@ -33,6 +33,8 @@
         android:layout_height="287dp"
         android:layout_marginStart="1dp"
         android:layout_marginTop="169dp"
+        android:scaleX="0.5"
+        android:scaleY="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
