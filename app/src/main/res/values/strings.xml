@@ -1,0 +1,6 @@
+<resources>
+<string name="app_name">ne_valiutos_ne_kripto</string>
+<string name="loading_data">Kraunama...</string>
+<string name="msg_using_async_task">Tu naudoji async!</string>
+<string name="data_loaded"></string>
+</resources>
